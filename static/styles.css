@@ -1,0 +1,33 @@
+/* Navbar styles */
+*{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  background: #161925;
+  color: #ffffff;
+  top: 0px;
+
+  width: 100%;
+}
+.navbar-logo img{
+  height: 20px;
+}
+
+
+/* Media query for mobile devices */
+@media screen and (max-width: 768px) {
+  .navbar {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .navbar-title {
+    margin-top: 20px;
+  }
+
+  .navbar-button {
+    margin-top: 20px;
+  }
+}
