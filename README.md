@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/product-review-analysis.git
+   git clone https://github.com/Shalini171002/Product_Review_Analysis.git
    cd product-review-analysis
    ```
 
